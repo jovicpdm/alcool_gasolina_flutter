@@ -1,7 +1,7 @@
 
-# Jokenpo 
+# Alcool ou Gasolina
 
-Meu primeiro aplicativo em Flutter, trata-se do clássico Jokenpo ou Pedra-Papel-Tesoura.
+Aplicativo para decidir qual é mais viável, abastecer com álcool ou gasolina
 
 ## Requisito:
 
